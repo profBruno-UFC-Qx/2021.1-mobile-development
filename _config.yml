@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Site destinado aos alunos da discplina QXD-0102 Programação para dispositivos
   móveis da Universidade Federal do Ceará - Campus de Quixadá.
 
-baseurl: "/mobile-development" # the subpath of your site, e.g. /blog
+baseurl: "/2021.1-mobile-development" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
